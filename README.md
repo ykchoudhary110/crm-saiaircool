@@ -1,6 +1,6 @@
-# Godrej Appliance Service Centre CRM
+# Sai Air Cool - Official Godrej Service Centre CRM
 
-A modern, responsive, production-ready web application for an authorized appliance service centre handling Godrej appliances across all major categories (Air Conditioners, Refrigerators, Washing Machines, Microwave Ovens, Geysers, etc.).
+A modern, responsive, production-ready web application for Sai Air Cool, an official service centre handling Godrej appliances across all major categories (Air Conditioners, Refrigerators, Washing Machines, Microwave Ovens, Geysers, etc.).
 
 Designed for fast, zero-configuration local development and immediate Vercel deployment with full interactive client-side persistence (simulating the complete service lifecycle end-to-end without external database setup).
 

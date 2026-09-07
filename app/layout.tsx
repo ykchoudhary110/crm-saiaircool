@@ -3,9 +3,9 @@ import './globals.css';
 import { CRMProvider } from '@/lib/crmContext';
 
 export const metadata: Metadata = {
-  title: 'Godrej Service Centre CRM | Appliance Care Operations',
+  title: 'Sai Air Cool | Official Godrej Service Centre CRM',
   description:
-    'Complete enterprise lifecycle CRM for Godrej appliances: Customers, Service Requests, Appointments, Diagnosis, Parts Inventory, Invoices, and Warranty Management.',
+    'Sai Air Cool - Official Godrej Service Centre. Complete enterprise lifecycle CRM for Godrej appliances.',
 };
 
 export default function RootLayout({

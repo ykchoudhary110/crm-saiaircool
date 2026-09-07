@@ -81,14 +81,14 @@ export const InvoicePrintModal: React.FC<InvoicePrintModalProps> = ({
             <div>
               <div className="flex items-center space-x-2">
                 <div className="h-8 w-8 rounded-lg bg-rose-600 text-white font-bold text-lg flex items-center justify-center">
-                  G
+                  S
                 </div>
                 <div>
                   <h1 className="text-xl font-black tracking-tight text-slate-900">
-                    GODREJ APPLIANCE SERVICE CENTRE
+                    SAI AIR COOL
                   </h1>
                   <p className="text-[11px] font-semibold text-rose-600">
-                    Authorized Customer Support & Repair Hub
+                    Official Godrej Service Centre
                   </p>
                 </div>
               </div>

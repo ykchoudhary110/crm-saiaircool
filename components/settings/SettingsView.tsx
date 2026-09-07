@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { Settings, Building, Clock, Wrench, ShieldCheck, Check } from 'lucide-react';
 
 export const SettingsView: React.FC = () => {
-  const [centreName, setCentreName] = useState('Godrej Service Centre Mumbai Central');
+  const [centreName, setCentreName] = useState('Sai Air Cool - Official Godrej Service Centre');
   const [gstin, setGstin] = useState('27AAACG1982K1Z9');
   const [phone, setPhone] = useState('1800-209-5511');
   const [address, setAddress] = useState('Plot 42, Marol Industrial Area, Andheri (E), Mumbai 400093');
